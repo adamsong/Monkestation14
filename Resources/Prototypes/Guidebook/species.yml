@@ -16,7 +16,7 @@
     # - Felinid
     - Gingerbread
     - Harpy
-    - Vox
+#    - Vox
     - Vulpkanin
     - Rodentia
     - Yowie
@@ -84,6 +84,7 @@
 
 - type: guideEntry
   id: Vox
+  enabled: false
   name: species-name-vox
   text: "/ServerInfo/Guidebook/Mobs/Vox.xml"
 
